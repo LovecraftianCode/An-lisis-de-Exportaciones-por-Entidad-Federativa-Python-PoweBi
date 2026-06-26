@@ -1,0 +1,11 @@
+Columna,Tipo,Descripcion
+PROD_EST,str,Nombre del proyecto estadístico
+COBERTURA,str,Área geográfica (Estatal)
+ANIO,int64,Año de referencia
+CVE_ENT,int64,Clave de entidad federativa
+NOM_ENTIDAD,str,Nombre de la entidad
+CODIGO_SCIAN,int64,Clave SCIAN del subsector
+DESCRIPCION,str,Descripción del subsector
+VAL_USD,float64,Valor en miles de USD (FOB)
+ESTATUS_CIFRA,str,Estatus de la cifra (Disponible/Confidencial/etc)
+ESTATUS,str,Estatus de la cifra (Definitiva/Preliminar)
